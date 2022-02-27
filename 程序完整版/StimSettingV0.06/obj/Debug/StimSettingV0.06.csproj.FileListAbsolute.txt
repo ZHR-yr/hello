@@ -1,0 +1,215 @@
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\App.g.cs
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\MainWindow.baml
+E:\XXS\0终极程序\自己练习\StimSettingV0.06\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\App.g.cs
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\MainWindow.baml
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\界面注 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\App.g.cs
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\MainWindow.baml
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注 - 副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\App.g.cs
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\MainWindow.baml
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\（左转全部数据程序）界面注\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\App.g.cs
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\MainWindow.baml
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\App.g.cs
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\MainWindow.baml
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\左转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\App.g.cs
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\MainWindow.baml
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+E:\XXS\0终极程序\右转数据整理\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\App.g.cs
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\MainWindow.baml
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注-副本 - 副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+F:\0终极程序\界面注-副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+F:\0终极程序\界面注-副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+F:\0终极程序\界面注-副本\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\App.g.cs
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\MainWindow.baml
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+F:\0终极程序\界面注-副本\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+F:\0终极程序\界面注-修改\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+F:\0终极程序\界面注-修改\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+F:\0终极程序\界面注-修改\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\App.g.cs
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\MainWindow.baml
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+F:\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\App.g.cs
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\MainWindow.baml
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+E:\XXS\0终极程序\界面注-修改\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe.config
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\bin\Debug\StimSettingV0.06.exe
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\bin\Debug\StimSettingV0.06.pdb
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0.06.csprojAssemblyReference.cache
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\MainWindow.g.cs
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\App.g.cs
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.cache
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0.06_MarkupCompile.lref
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\MainWindow.baml
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0.06.g.resources
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormDrawChart.resources
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimParSetting.resources
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0._06.FormStimRecord.resources
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0._06.Properties.Resources.resources
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.GenerateResource.cache
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0.06.csproj.CoreCompileInputs.cache
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0.06.exe
+F:\0终极程序\界面注-修改完善版\StimSettingV0.06\obj\Debug\StimSettingV0.06.pdb
